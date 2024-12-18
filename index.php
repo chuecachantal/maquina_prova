@@ -7,5 +7,6 @@
 </head>
 <body>
     <p>Bon dia!</p>
+    <p>lorem</p>
 </body>
 </html>
